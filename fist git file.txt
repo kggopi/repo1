@@ -5,4 +5,8 @@ my first git file first line
 
 added second line
 
+
+addded third line
+
+
 ***********
